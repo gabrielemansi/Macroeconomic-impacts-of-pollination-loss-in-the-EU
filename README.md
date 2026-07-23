@@ -1,4 +1,4 @@
-Principal contributions, originality, and conceptual advance of the paper.
+Principal contributions, originality, and conceptual advance of the paper "Pollinator_decline_reveals_uneven_impacts_from_climate_driven_biodiversity_loss".
 
 Methodological advance: 
 This is the first integrated assessment to propagate a multi-model, climate-driven pollinator species distribution ensemble 
