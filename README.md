@@ -1,4 +1,12 @@
-Principal contributions, originality, and conceptual advance of the paper "Pollinator_decline_reveals_uneven_impacts_from_climate_driven_biodiversity_loss".
+This github repository contains addition materials of the paper "Pollinator_decline_reveals_uneven_impacts_from_climate_driven_biodiversity_loss".
+
+This study delivers the first climate-driven, multi-model and multi-scenario assessment of the macroeconomic
+consequences of pollinator decline at sub-national resolution. We developed an integrated modelling chain, linking
+a multi-scenario ensemble of pollinator species distribution projections with a sub national computable general
+equilibrium model for the EU, to capture the propagation of ecosystem services changes through agricultural
+systems into the macro-economy in a spatially explicit manner.
+
+Principal contributions, originality, and conceptual advance of the study: 
 
 Methodological advance: 
 This is the first integrated assessment to propagate a multi-model, climate-driven pollinator species distribution ensemble 
