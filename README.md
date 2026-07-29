@@ -15,7 +15,7 @@ Existing pollinator-economics studies either impose stylised binary collapse sho
 neither captures the dynamic, climate-driven evolution of pollinator ranges propagated to economy-wide outcomes at the scale at which decisions are made.
 
 Unprecedented data integration:
-The framework couples 18 SSP–RCP scenarios covering 153 wild pollinator species with high-resolution data for 129 crops and a CGE model resolved across 122 NUTS regions.
+The framework couples 18 SSP–RCP scenarios covering up to 153 wild pollinator species with high-resolution data for 129 crops and a CGE model resolved across 122 NUTS regions.
 No prior assessment in this domain has achieved comparable spatial, sectoral, and scenario coverage over this temporal horizon.
 
 Robust treatment of uncertainty:
